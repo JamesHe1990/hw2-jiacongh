@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>edu.cmu.lti.11791.f13.hw2</groupId>
 	<artifactId>hw2-jiacongh</artifactId>
-	<version>0.0.3-SNAPSHOT</version>
+	<version>0.0.4-SNAPSHOT</version>
 	<repositories>
 		<repository>
 			<id>oaqa</id>
@@ -81,8 +81,7 @@
 		</dependency>
 	</dependencies>
 	<scm>
-		<connection>git@github.com:JamesHe1990/hw2-jiacongh.git</connection>
-		<developerConnection>git@github.com:JamesHe1990/hw2-jiacongh.git</developerConnection>
-		<url>https://github.com/JamesHe1990/hw2-jiacongh.git</url>
+		<connection>scm:git:git@github.com:JamesHe1990/hw2-jiacongh.git</connection>
+		<developerConnection>scm:git:git@github.com:JamesHe1990/hw2-jiacongh.git</developerConnection>
 	</scm>
 </project>
