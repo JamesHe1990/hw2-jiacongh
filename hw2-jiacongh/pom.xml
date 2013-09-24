@@ -83,5 +83,6 @@
 	<scm>
 		<connection>git@github.com:JamesHe1990/hw2-jiacongh.git</connection>
 		<developerConnection>git@github.com:JamesHe1990/hw2-jiacongh.git</developerConnection>
+		<url>https://github.com/JamesHe1990/hw2-jiacongh.git</url>
 	</scm>
 </project>
